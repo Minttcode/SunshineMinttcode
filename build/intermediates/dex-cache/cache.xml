@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c4d15af43c517d85a7b767b9ce7561861425ba58">
+        <dex dex="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8824280b7e515a879a98a5d681ec64cbaa29293a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="10be44a79051a484ede9a1a5e42e6e4b46ebe099">
+        <dex dex="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6cff4bb312b1be7eb48785cf1ad27e6c210f6398/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_cb256d8b35c23cafa2cb9a68b61b0a4c50d7dea2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_154669cb2fc7706712cb5f477afd9a75f9d4a602/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_070cd821073c8efe06d24db391e37af60327a409/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dinorahtovar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/dinorahtovar/Documents/AndroidStudioProjects/Sunshine-Version2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_f80495639b33ecfe7bed21564a631d0760136d80/classes.dex" />
+    </item>
+
+</items>
